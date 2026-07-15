@@ -1,11 +1,12 @@
 # First PR Practice
 
-This repositroy is a small sandbox for practicing the GitHub pull request workflow:
+This repository is a small sandbox for practicing the GitHub pull request workflow:
 create a branch, make a change, open a PR, and merge it.
 
 ## Contents
 
-- `greet.js` — a tiny utility function with no tests yet.
+- `greet.js` — a tiny utility function.
+- `greet.test.js` — tests for `greet.js`.
 
 ## Workflow
 
